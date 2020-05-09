@@ -1,2 +1,2 @@
 # SENLATasks
-Packages with tasks are placed in SENLATasks/src.
+Packages with tasks are placed in SENLATest/src.
