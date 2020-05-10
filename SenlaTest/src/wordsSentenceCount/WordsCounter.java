@@ -13,7 +13,7 @@ public class WordsCounter {
                 return  o1.compareTo(o2);
             }
         });
-        for(int i =0;i<words.length;i++){
+        for(int i = 0;i<words.length;i++){
             words[i] = words[i].replaceFirst(Character.toString(words[i].charAt(0)),
                     Character.toString(words[i].charAt(0)).toUpperCase());
         }
